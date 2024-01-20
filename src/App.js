@@ -1,5 +1,5 @@
 import logo from './logo.svg';
-import { BrowserRouter, Routes, Route } from "react-router-dom";
+import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
 import Home from './pages/Home';
 import Product from './pages/Product';
 import AboutPage from './pages/AboutPage';
@@ -11,7 +11,7 @@ function App() {
 
   return (
    
-    <BrowserRouter>
+    <Router>
     <Routes>
       <Route path="/" element={<Home />}></Route>
       <Route path="home" element={<Home />}></Route>
@@ -21,7 +21,7 @@ function App() {
       <Route path="team" element={<TeamPage />}></Route>
       <Route path="contact" element={<Contact />}></Route>
     </Routes>
-  </BrowserRouter>
+  </Router>
   );
 }
 
