@@ -440,6 +440,13 @@
     height: 100px;
 }
 
+.container-fluid.bg-primary.py-5.mb-5{
+
+    background: url("../img/ipets2.png") no-repeat  !important;
+    background-size:cover !important;
+    background-position: center !important;
+}
+
 @media (min-width: 576px) {
     .blog-item .row {
         height: 300px;

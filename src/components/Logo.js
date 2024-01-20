@@ -4,10 +4,10 @@ const Logo = ()=>{
 
     return (
     <div>
-        <div className="container-fluid bg-primary py-5 mb-5 hero-header">
+        <div className="container-fluid bg-primary py-5 mb-5">
             <div className="container py-5">
                 <div className="row justify-content-start">
-                    <div className="col-lg-8 text-center text-lg-start">
+                    <div className="col-lg-8 text-right text-lg-start">
                         <h1 className="display-1 text-uppercase text-dark mb-lg-4">iPets Shop</h1>
                         <h1 className="text-uppercase text-white mb-lg-4">Make Your Pets Happy</h1>
                         <p className="fs-4 text-white mb-lg-4">Providing comfort and care for all pets, Starting from their food items to toys, and clothes and other basic items you would need.</p>
@@ -24,7 +24,7 @@ const Logo = ()=>{
             </div>
         </div>
     
-        <div className="modal fade" id="videoModal" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+        {/* <div className="modal fade" id="videoModal" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
             <div className="modal-dialog">
                 <div className="modal-content rounded-0">
                     <div className="modal-header">
@@ -39,7 +39,7 @@ const Logo = ()=>{
                     </div>
                 </div>
             </div>
-        </div>
+        </div> */}
     </div>)
 }
 
