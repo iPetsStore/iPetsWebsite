@@ -12,7 +12,7 @@ const Logo = ()=>{
                         <h1 className="text-uppercase text-white mb-lg-4">Make Your Pets Happy</h1>
                         <p className="fs-4 text-white mb-lg-4">Providing comfort and care for all pets, Starting from their food items to toys, and clothes and other basic items you would need.</p>
                         <div className="d-flex align-items-center justify-content-center justify-content-lg-start pt-5">
-                            <a href="about" className="btn btn-outline-light border-2 py-md-3 px-md-5 me-5">Read More</a>
+                            <a href="/about" className="btn btn-outline-light border-2 py-md-3 px-md-5 me-5">Read More</a>
                             {/* <button type="button" className="btn-play" data-bs-toggle="modal"
                                 data-src="https://www.youtube.com/embed/DWRcNpR6Kdc" data-bs-target="#videoModal">
                                 <span></span>

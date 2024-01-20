@@ -17,10 +17,10 @@ const Footer = ()=>{
                     <div className="col-lg-3 col-md-6">
                         <h5 className="text-uppercase border-start border-5 border-primary ps-3 mb-4">Quick Links</h5>
                         <div className="d-flex flex-column justify-content-start">
-                            <a className="text-body mb-2" href="home"><i className="bi bi-arrow-right text-primary me-2"></i>Home</a>
-                            <a className="text-body mb-2" href="about"><i className="bi bi-arrow-right text-primary me-2"></i>About Us</a>
-                            <a className="text-body mb-2" href="service"><i className="bi bi-arrow-right text-primary me-2"></i>Our Services</a>
-                            <a className="text-body" href="team"><i className="bi bi-arrow-right text-primary me-2"></i>Team</a>
+                            <a className="text-body mb-2" href="/home"><i className="bi bi-arrow-right text-primary me-2"></i>Home</a>
+                            <a className="text-body mb-2" href="/about"><i className="bi bi-arrow-right text-primary me-2"></i>About Us</a>
+                            <a className="text-body mb-2" href="/service"><i className="bi bi-arrow-right text-primary me-2"></i>Our Services</a>
+                            <a className="text-body" href="/team"><i className="bi bi-arrow-right text-primary me-2"></i>Team</a>
                         </div>
                     </div>
                     {/* <div className="col-lg-3 col-md-6">

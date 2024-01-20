@@ -78,8 +78,8 @@ const Contact = ()=>{
                         </div>
                         <div>
                             <iframe class="position-relative w-100"
-                                src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3455.010004383676!2d31.186123774630282!3d30.007869120304466!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x145847b3d2f97793%3A0x81f327b553714d23!2sIPets%20Store%202!5e0!3m2!1sen!2seg!4v1704008033302!5m2!1sen!2seg" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"
-                                frameborder="0" style={{height: "205px", border:"0"}} allowfullscreen="" aria-hidden="false"
+                                src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3455.010004383676!2d31.186123774630282!3d30.007869120304466!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x145847b3d2f97793%3A0x81f327b553714d23!2sIPets%20Store%202!5e0!3m2!1sen!2seg!4v1704008033302!5m2!1sen!2seg" width="600" height="450"  allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"
+                                frameborder="0" style={{height: "205px", border:"0"}} aria-hidden="false"
                                 tabindex="0"></iframe>
                         </div>
                     </div>
