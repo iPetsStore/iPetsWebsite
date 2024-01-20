@@ -444,7 +444,10 @@
     .blog-item .row {
         height: 300px;
     }
+}
 
+@media (max-width: 720px) {
+    
     .products{
 
         grid-template-columns: repeat(2,1fr);
